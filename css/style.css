@@ -332,7 +332,6 @@ color:var(--secondary);
     color:#eee;
 }
 
-
 /*ends*/
 
 /*courses*/
@@ -429,9 +428,10 @@ color:var(--secondary);
 /*ends*/
 
 /*techer*/
+
 .teacher .box-container{
     display:grid;
-    grid-template-columns:repeat(auto-fit,minmax(10rem,1fr));
+    grid-template-columns:repeat(auto-fit,minmax(25rem,1fr));
     gap:1rem;
 }
 .teacher .box-container .box{
