@@ -270,7 +270,7 @@ color:var(--secondary);
     width:80%;
 }
 .about .container .about-image .about-image{
-    position:absolute;
+    position:relative;
     bottom:-10rem;
     right:-1rem;
     width:25rem;
