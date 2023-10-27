@@ -261,13 +261,13 @@ color:var(--secondary);
     display:flex;
     flex-wrap:wrap;
 }
-/*
+
 .about .container .about-image{
     position:relative;
     flex:1 1 40rem;
     display: flex;
  
-}*/
+}
 .about .container .about-image{
     width:80%;
 }
