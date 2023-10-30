@@ -257,6 +257,7 @@ color:var(--secondary);
 /*ends*/
 
 /*about*/
+
 .about .container{
     display:flex;
     flex-wrap:wrap;
@@ -767,7 +768,7 @@ color:var(--secondary);
     text-align:center;
     order:2;
 }
-.about-img img{
+.about-image .about-image{
     width:100%;
     height:auto;
     max-width:100%;
